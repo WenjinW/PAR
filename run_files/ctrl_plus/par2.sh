@@ -1,0 +1,27 @@
+cd src
+python run.py \
+    --task_seed=0 \
+    --seed=0 \
+    --experiment="ctrl_s_plus" \
+    --approach=par_v2 \
+    --id=300elamb3e-2p30reduce \
+    --model=par \
+    --sample_epochs=50  \
+    --epochs=300  \
+    --batch=32  \
+    --eval_batch=1024  \
+    --lr=0.01  \
+    --lr_scheduler="reduce" \
+    --lr_patience=30 \
+    --lamb=0.03  \
+    --lr_search=0.01 \
+    --num_layers=4 \
+    --init_channel=64 \
+    --coefficient_kl=1 \
+    --nas="mdl" \
+    --task_relatedness_method="mean" \
+    --reuse_threshold=0.5 \
+    --reuse_cell_threshold=0.75 \
+    --pretrained_feat_extractor="resnet18" \
+    --task_dist_image_size="(8,6)" \
+    --num_workers=4 \
