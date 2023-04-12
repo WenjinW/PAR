@@ -15,7 +15,7 @@ source run_files/[run_file_name.sh]
 sh run_files/cifar100-10/par2.sh
 ```
 实验结果如下：
-![](./results.png)
+![image](results.png)
 
 ## Code
 in /src
