@@ -1,4 +1,6 @@
 # Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning
+This is the Source Code of Paper: [Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning](https://arxiv.org/abs/2304.05288).
+
 ## Enviroment
 We provide the conda enviroment file [here](./CondaEnv.yml)
 
