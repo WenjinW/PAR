@@ -18,3 +18,15 @@ The result is as follows：
 
 ## Code
 in /src
+
+## Citation
+Please cite the paper if you use the code in this repo.
+```latex
+@inproceedings{wang2023task,
+  title={Task Difficulty Aware Parameter Allocation \& Regularization for Lifelong Learning},
+  author={Wang, Wenjin and Hu, Yunqing and Chen, Qianglong and Zhang, Yin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7776--7785},
+  year={2023}
+}
+```
