@@ -1,5 +1,5 @@
 # Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning
-This is the Source Code of Paper: Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning. ([CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Task_Difficulty_Aware_Parameter_Allocation__Regularization_for_Lifelong_Learning_CVPR_2023_paper.html), [arXiv](https://arxiv.org/abs/2304.05288))
+This is the Source Code of Paper: Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning. ([CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Task_Difficulty_Aware_Parameter_Allocation__Regularization_for_Lifelong_Learning_CVPR_2023_paper.html), [arXiv](https://arxiv.org/abs/2304.05288), [YouTube Video](https://www.youtube.com/watch?v=R0jA9rHxIWI))
 
 ## Enviroment
 We provide the conda enviroment file [here](./CondaEnv.yml)
